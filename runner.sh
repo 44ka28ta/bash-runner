@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/sh
 
 WATCH_EVENT="modify"
 
